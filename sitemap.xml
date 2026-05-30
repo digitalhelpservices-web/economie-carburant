@@ -3,9 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Blog Auto 2026 — Conseils Budget, Carburant & Fiscalité | Économie-Carburant.fr</title>
-<meta name="description" content="Conseils et guides pour optimiser votre budget auto 2026 : barème kilométrique, économies carburant, frais réels vs forfait, astuces concrètes.">
-<link rel="canonical" href="https://economie-carburant.fr/blog/">
+<title>Comment calculer le barème kilométrique 2026 ? — Économie-Carburant.fr</title>
+<meta name="description" content="Guide complet pour calculer vos indemnités kilométriques 2026 : formules officielles, tranches, exemples concrets et erreurs à éviter.">
+<link rel="canonical" href="https://economie-carburant.fr/blog/comment-calculer-bareme-kilometrique-2026/">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⛽</text></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -1403,7 +1403,9 @@ p { line-height: 1.7; }
 
 
 </style>
-
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Article","headline":"Comment calculer le barème kilométrique 2026 ?","description":"Guide complet pour calculer vos indemnités kilométriques 2026 : formules officielles, tranches, exemples concrets et erreurs à éviter.","datePublished":"2026-05-01","author":{"@type":"Organization","name":"Économie-Carburant.fr"},"publisher":{"@type":"Organization","name":"Économie-Carburant.fr"}}
+</script>
 </head>
 <body>
 <header class="site-header">
@@ -1421,58 +1423,70 @@ p { line-height: 1.7; }
   </div>
 </header>
 <style>
-.blog-hero{background:linear-gradient(135deg,#0D1B2A,#152A1E);padding:56px 0 80px;position:relative;overflow:hidden}
-.blog-hero::before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse 600px 400px at 75% 50%,rgba(39,174,96,0.13),transparent)}
-.blog-hero::after{content:'';position:absolute;bottom:-1px;left:0;right:0;height:40px;background:#FAFBFC;border-radius:40px 40px 0 0}
-.article-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
-.article-card{background:var(--white);border-radius:var(--radius-lg);overflow:hidden;box-shadow:var(--card-shadow);border:1px solid rgba(44,62,80,0.06);transition:all var(--transition);display:flex;flex-direction:column}
-.article-card:hover{transform:translateY(-6px);box-shadow:var(--card-hover)}
-.article-img{height:160px;display:flex;align-items:center;justify-content:center;font-size:3.5rem}
-.article-body{padding:24px}
-.article-tag{display:inline-block;font-size:0.72rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;padding:3px 10px;border-radius:100px;margin-bottom:10px}
-.article-card h3{font-size:1.05rem;margin-bottom:8px;line-height:1.3}
-.article-card p{font-size:0.88rem;color:var(--gray);line-height:1.5;margin-bottom:14px}
-.article-meta{font-size:0.78rem;color:var(--gray-light);display:flex;align-items:center;gap:8px;margin-top:auto}
+.art-hero{background:linear-gradient(135deg,#0D1B2A,#152A1E);padding:48px 0 72px;position:relative;overflow:hidden}
+.art-hero::before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse 600px 400px at 75% 50%,rgba(39,174,96,0.13),transparent)}
+.art-hero::after{content:'';position:absolute;bottom:-1px;left:0;right:0;height:40px;background:#FAFBFC;border-radius:40px 40px 0 0}
+.art-wrap{max-width:760px;margin:0 auto;padding:0 20px}
+.art-content{background:var(--bg-2);padding:48px 0 80px}
+.art-content h2{margin:32px 0 14px;font-size:1.5rem}
+.art-content h3{margin:24px 0 10px;font-size:1.15rem;color:var(--dark-2)}
+.art-content p{margin-bottom:16px;color:var(--dark-3);line-height:1.8}
+.art-content ul,.art-content ol{margin:0 0 16px 0;padding-left:24px;color:var(--dark-3);line-height:1.9}
+.art-content li{margin-bottom:8px}
+.art-cta{background:linear-gradient(135deg,#1A252F,#1E3A28);border-radius:var(--radius-lg);padding:28px 32px;margin:32px 0;text-align:center}
+.art-cta h3{color:#fff;margin-bottom:8px}
+.art-cta p{color:rgba(255,255,255,0.6);margin-bottom:16px}
+.art-meta-top{display:flex;align-items:center;gap:12px;color:rgba(255,255,255,0.5);font-size:0.85rem;margin-top:12px}
 </style>
-<div class="blog-hero">
-  <div class="container">
-    <div class="breadcrumb"><a href="/">Accueil</a><span class="breadcrumb-sep">/</span><span>Blog</span></div>
-    <span class="hero-badge" style="margin:0 0 12px">📝 Le blog</span>
-    <h1 style="color:#fff;margin-bottom:10px">Conseils & guides auto 2026</h1>
-    <p class="tool-tldr">Tout pour optimiser votre budget automobile : barème kilométrique, économies de carburant, fiscalité, astuces concrètes.</p>
+<div class="art-hero">
+  <div class="container art-wrap">
+    <div class="breadcrumb"><a href="/">Accueil</a><span class="breadcrumb-sep">/</span><a href="/blog/">Blog</a><span class="breadcrumb-sep">/</span><span>Article</span></div>
+    <span class="article-tag" style="background:var(--green-light);color:var(--green-dark);margin-bottom:12px">Fiscalité</span>
+    <h1 style="color:#fff">Comment calculer le barème kilométrique 2026 ?</h1>
+    <div class="art-meta-top">📅 Mai 2026 · ⏱️ Lecture rapide · ✍️ Économie-Carburant.fr</div>
   </div>
 </div>
+<div class="art-content">
+  <div class="art-wrap">
+    <p>Le <strong>barème kilométrique</strong> permet aux salariés et indépendants de déduire leurs frais de déplacement professionnel de leurs impôts. Voici comment le calculer correctement en 2026.</p>
 
-<div style="background:var(--bg-2);padding:60px 0 80px">
-  <div class="container">
-    <div class="article-grid">
-      <a href="/blog/comment-calculer-bareme-kilometrique-2026/" class="article-card">
-        <div class="article-img" style="background:linear-gradient(135deg,#EAFAF1,#A9DFBF)">📊</div>
-        <div class="article-body">
-          <span class="article-tag" style="background:var(--green-light);color:var(--green-dark)">Fiscalité</span>
-          <h3>Comment calculer le barème kilométrique 2026 ?</h3>
-          <p>Guide complet pas à pas : formules, tranches, exemples concrets et erreurs à éviter pour vos indemnités kilométriques.</p>
-          <div class="article-meta">📅 Mai 2026 · ⏱️ 6 min de lecture</div>
-        </div>
-      </a>
-      <a href="/blog/frais-reels-vs-bareme-ik/" class="article-card">
-        <div class="article-img" style="background:linear-gradient(135deg,#EBF5FB,#85B7EB)">⚖️</div>
-        <div class="article-body">
-          <span class="article-tag" style="background:var(--blue-light);color:var(--blue-dark)">Impôts</span>
-          <h3>Frais réels ou abattement 10% : que choisir ?</h3>
-          <p>Comparatif détaillé pour savoir quelle option fiscale vous fait économiser le plus selon votre situation.</p>
-          <div class="article-meta">📅 Avril 2026 · ⏱️ 5 min de lecture</div>
-        </div>
-      </a>
-      <a href="/blog/economiser-carburant-2026/" class="article-card">
-        <div class="article-img" style="background:linear-gradient(135deg,#FEF9E7,#F6C142)">⛽</div>
-        <div class="article-body">
-          <span class="article-tag" style="background:var(--orange-light);color:#9A6A04">Économies</span>
-          <h3>15 astuces pour économiser du carburant en 2026</h3>
-          <p>Éco-conduite, E85, entretien, comparaison des prix... Réduisez votre budget carburant de 20 à 40%.</p>
-          <div class="article-meta">📅 Mai 2026 · ⏱️ 7 min de lecture</div>
-        </div>
-      </a>
+<h2>1. Les trois tranches du barème</h2>
+<p>Le barème kilométrique 2026 repose sur trois tranches de distance annuelle, avec des taux dégressifs :</p>
+<ul>
+  <li><strong>Jusqu'à 5 000 km</strong> : un taux fixe au kilomètre (ex. 0,636 €/km pour 5 CV)</li>
+  <li><strong>De 5 001 à 20 000 km</strong> : un taux réduit + un montant forfaitaire (ex. ×0,378 + 1 290 €)</li>
+  <li><strong>Au-delà de 20 000 km</strong> : un taux unique au kilomètre (ex. 0,440 €/km)</li>
+</ul>
+
+<h2>2. Exemple concret pour 5 CV</h2>
+<p>Prenons un salarié parcourant <strong>15 000 km</strong> par an avec un véhicule de <strong>5 CV fiscaux</strong>. Il se situe dans la deuxième tranche (5 001 à 20 000 km) :</p>
+<p style="background:var(--green-light);padding:16px;border-radius:12px;font-weight:600;color:var(--green-dark)">IK = (15 000 × 0,378) + 1 290 = 5 670 + 1 290 = <strong>6 960 €</strong></p>
+<p>Ce salarié peut donc déduire 6 960 € de frais réels sur sa déclaration d'impôts.</p>
+
+<h2>3. La majoration véhicule électrique</h2>
+<p>Bonne nouvelle pour les propriétaires de véhicules électriques : une <strong>majoration de 20%</strong> s'applique. Reprenons l'exemple précédent avec un VE :</p>
+<p style="background:var(--green-light);padding:16px;border-radius:12px;font-weight:600;color:var(--green-dark)">IK électrique = 6 960 × 1,20 = <strong>8 352 €</strong></p>
+
+<h2>4. Les erreurs à éviter</h2>
+<ul>
+  <li><strong>Confondre CV fiscaux et chevaux DIN</strong> : utilisez la puissance fiscale (case P.6 de la carte grise)</li>
+  <li><strong>Oublier les justificatifs</strong> : conservez agenda, relevé kilométrique et carte grise</li>
+  <li><strong>Inclure les péages dans le barème</strong> : ils s'ajoutent en plus, sur justificatifs</li>
+  <li><strong>Choisir les frais réels sans calcul</strong> : comparez toujours avec l'abattement de 10%</li>
+</ul>
+
+<div class="art-cta">
+  <h3>📊 Calculez vos indemnités en 10 secondes</h3>
+  <p>Notre calculateur applique automatiquement le barème officiel 2026–2030.</p>
+  <a href="/bareme-kilometrique-2026/" class="btn btn-green">Calculer mes IK gratuitement →</a>
+</div>
+
+<h2>5. Comment déclarer aux impôts ?</h2>
+<p>Reportez le montant total de vos IK dans la <strong>case 1AK</strong> (frais réels) de votre déclaration 2042. N'oubliez pas de cocher l'option « frais réels » plutôt que l'abattement forfaitaire de 10%.</p>
+    <div class="related-tools" style="margin-top:40px">
+      <a href="/bareme-kilometrique-2026/" class="related-card"><div class="related-icon icon-green">📊</div><div class="related-text">Barème IK 2026</div></a>
+      <a href="/cout-trajet/" class="related-card"><div class="related-icon icon-blue">🗺️</div><div class="related-text">Coût trajet</div></a>
+      <a href="/blog/" class="related-card"><div class="related-icon icon-purple">📝</div><div class="related-text">Tous les articles</div></a>
     </div>
   </div>
 </div>
