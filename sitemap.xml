@@ -1,115 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-
-  <!-- Page d'accueil - priorité max -->
-  <url>
-    <loc>https://economie-carburant.fr/</loc>
-    <lastmod>2026-05-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-
-  <!-- Outil #1 - Barème IK (star page) -->
-  <url>
-    <loc>https://economie-carburant.fr/bareme-kilometrique-2026/</loc>
-    <lastmod>2026-05-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.95</priority>
-  </url>
-
-  <!-- Outil #2 - Coût trajet -->
-  <url>
-    <loc>https://economie-carburant.fr/cout-trajet/</loc>
-    <lastmod>2026-05-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <!-- Outil #3 - Consommation -->
-  <url>
-    <loc>https://economie-carburant.fr/calculateur-consommation/</loc>
-    <lastmod>2026-05-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.85</priority>
-  </url>
-
-  <!-- Outil #4 - Budget auto -->
-  <url>
-    <loc>https://economie-carburant.fr/budget-auto-mensuel/</loc>
-    <lastmod>2026-05-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Outil #5 - Comparatif carburants -->
-  <url>
-    <loc>https://economie-carburant.fr/comparatif-carburants/</loc>
-    <lastmod>2026-05-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-  </url>
-
-  <!-- Outil #6 - Carte grise -->
-  <url>
-    <loc>https://economie-carburant.fr/carte-grise-2026/</loc>
-    <lastmod>2026-05-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Landing page PDF -->
-  <url>
-    <loc>https://economie-carburant.fr/guide-bareme-ik-2026-pdf/</loc>
-    <lastmod>2026-05-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <!-- Blog / Articles -->
-  <url>
-    <loc>https://economie-carburant.fr/blog/</loc>
-    <lastmod>2026-05-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://economie-carburant.fr/blog/comment-calculer-bareme-kilometrique-2026/</loc>
-    <lastmod>2026-05-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://economie-carburant.fr/blog/frais-reels-vs-bareme-ik/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://economie-carburant.fr/blog/aide-grands-rouleurs-2026/</loc>
-    <lastmod>2026-05-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <!-- Pages légales (noindex mais dans sitemap pour crawlability) -->
-  <url>
-    <loc>https://economie-carburant.fr/mentions-legales/</loc>
-    <lastmod>2026-01-01</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.1</priority>
-  </url>
-  <url>
-    <loc>https://economie-carburant.fr/cgv/</loc>
-    <lastmod>2026-01-01</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.1</priority>
-  </url>
-  <url>
-    <loc>https://economie-carburant.fr/rgpd/</loc>
-    <lastmod>2026-01-01</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.1</priority>
-  </url>
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://economie-carburant.fr/</loc><lastmod>2026-05-30</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://economie-carburant.fr/bareme-kilometrique-2026/</loc><lastmod>2026-05-30</lastmod><changefreq>monthly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://economie-carburant.fr/cout-trajet/</loc><lastmod>2026-05-30</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://economie-carburant.fr/calculateur-consommation/</loc><lastmod>2026-05-30</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://economie-carburant.fr/budget-auto-mensuel/</loc><lastmod>2026-05-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://economie-carburant.fr/comparatif-carburants/</loc><lastmod>2026-05-30</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://economie-carburant.fr/carte-grise-2026/</loc><lastmod>2026-05-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://economie-carburant.fr/guide-bareme-ik-2026-pdf/</loc><lastmod>2026-05-30</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://economie-carburant.fr/blog/</loc><lastmod>2026-05-30</lastmod><changefreq>weekly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://economie-carburant.fr/blog/comment-calculer-bareme-kilometrique-2026/</loc><lastmod>2026-05-30</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://economie-carburant.fr/blog/frais-reels-vs-bareme-ik/</loc><lastmod>2026-05-30</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://economie-carburant.fr/blog/economiser-carburant-2026/</loc><lastmod>2026-05-30</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://economie-carburant.fr/contact/</loc><lastmod>2026-05-30</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://economie-carburant.fr/mentions-legales/</loc><lastmod>2026-01-01</lastmod><changefreq>yearly</changefreq><priority>0.1</priority></url>
+  <url><loc>https://economie-carburant.fr/cgv/</loc><lastmod>2026-01-01</lastmod><changefreq>yearly</changefreq><priority>0.1</priority></url>
+  <url><loc>https://economie-carburant.fr/rgpd/</loc><lastmod>2026-01-01</lastmod><changefreq>yearly</changefreq><priority>0.1</priority></url>
 </urlset>
