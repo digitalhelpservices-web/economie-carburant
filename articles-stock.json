@@ -1,0 +1,100 @@
+{
+  "articles": [
+    {
+      "slug": "prix-carburant-semaine",
+      "tag": "Actualité",
+      "title": "Prix du carburant cette semaine : où faire le plein le moins cher",
+      "desc": "Analyse des prix carburant de la semaine en France et conseils pour économiser sur votre plein.",
+      "intro": "Les prix à la pompe varient chaque semaine. Voici un point sur les tarifs actuels et comment payer moins cher.",
+      "sections": [
+        {"h2": "Les prix moyens en France", "p": "Le SP95-E10 se situe autour de 2,06 €/L, le Diesel à 2,33 €/L et l'E85 reste imbattable à 0,84 €/L. Les écarts entre stations peuvent atteindre 15 à 20 centimes par litre."},
+        {"h2": "Où faire le plein le moins cher", "p": "Les grandes surfaces (Leclerc, Carrefour, Intermarché) affichent généralement les prix les plus bas, souvent 8 à 12 centimes sous la moyenne. Évitez les stations d'autoroute, jusqu'à 20 centimes plus chères."},
+        {"h2": "L'astuce des opérations à prix coûtant", "p": "Plusieurs enseignes organisent régulièrement des week-ends de carburant à prix coûtant. Surveillez les annonces : l'économie peut atteindre 10 à 15 € par plein."}
+      ]
+    },
+    {
+      "slug": "bareme-ik-questions-frequentes",
+      "tag": "Fiscalité",
+      "title": "Barème kilométrique : les 10 questions les plus posées",
+      "desc": "Réponses aux questions fréquentes sur le barème kilométrique et les indemnités kilométriques 2026.",
+      "intro": "Le barème kilométrique soulève de nombreuses questions. Voici les réponses claires aux interrogations les plus courantes.",
+      "sections": [
+        {"h2": "Qui peut utiliser le barème ?", "p": "Tout salarié optant pour les frais réels, ainsi que les travailleurs indépendants. Il faut utiliser un véhicule personnel pour des déplacements professionnels."},
+        {"h2": "Les trajets domicile-travail comptent-ils ?", "p": "Oui, dans la limite de 40 km aller-retour par jour (sauf circonstances particulières justifiées). Au-delà, seuls 40 km sont déductibles sauf justification."},
+        {"h2": "Peut-on cumuler IK et péages ?", "p": "Oui. Le barème couvre carburant, entretien, assurance et amortissement. Les péages et le stationnement s'ajoutent séparément, sur justificatifs."}
+      ]
+    },
+    {
+      "slug": "voiture-electrique-rentabilite",
+      "tag": "Électrique",
+      "title": "Voiture électrique : est-ce vraiment rentable en 2026 ?",
+      "desc": "Analyse complète de la rentabilité d'une voiture électrique en 2026 : coût recharge, entretien, fiscalité.",
+      "intro": "La voiture électrique séduit, mais est-elle réellement avantageuse financièrement ? Faisons le calcul.",
+      "sections": [
+        {"h2": "Le coût de la recharge", "p": "Recharger à domicile coûte environ 2 à 3 € aux 100 km en tarif heures creuses, contre 14 € pour un véhicule essence. Sur 15 000 km/an, l'économie dépasse 1 600 €."},
+        {"h2": "L'entretien réduit", "p": "Pas de vidange, pas de courroie, freinage régénératif qui épargne les plaquettes : l'entretien d'une électrique coûte 30 à 40% de moins qu'un thermique."},
+        {"h2": "Le bonus fiscal", "p": "Majoration de 20% sur le barème kilométrique, exonération de carte grise dans toutes les régions, et bonus écologique à l'achat selon les revenus."}
+      ]
+    },
+    {
+      "slug": "reduire-assurance-auto",
+      "tag": "Économies",
+      "title": "Comment réduire sa prime d'assurance auto de 30%",
+      "desc": "Astuces concrètes pour faire baisser votre assurance auto en 2026 sans réduire vos garanties.",
+      "intro": "L'assurance représente un poste majeur du budget auto. Voici comment la réduire intelligemment.",
+      "sections": [
+        {"h2": "Comparez chaque année", "p": "Les comparateurs en ligne permettent d'économiser 200 à 400 € par an. La fidélité ne paie pas en assurance : changez dès qu'une meilleure offre apparaît."},
+        {"h2": "Ajustez vos garanties", "p": "Pour un véhicule ancien (plus de 8 ans), passer du tous risques au tiers étendu peut diviser la prime par deux, sans risque démesuré."},
+        {"h2": "Optez pour le paiement annuel", "p": "Payer en une fois plutôt que mensuellement évite les frais de fractionnement, souvent 3 à 5% du montant total."}
+      ]
+    },
+    {
+      "slug": "entretien-voiture-economiser",
+      "tag": "Entretien",
+      "title": "Entretien auto : 8 gestes qui prolongent la vie de votre voiture",
+      "desc": "Les gestes d'entretien essentiels pour éviter les grosses pannes et économiser sur le long terme.",
+      "intro": "Un entretien régulier coûte bien moins cher qu'une réparation majeure. Voici les gestes qui comptent.",
+      "sections": [
+        {"h2": "Respectez les vidanges", "p": "Une vidange dans les temps (tous les 15 000 à 30 000 km selon le moteur) évite l'usure prématurée et des réparations à plusieurs milliers d'euros."},
+        {"h2": "Surveillez les pneus", "p": "Pression correcte et permutation régulière prolongent la durée de vie des pneus de 20% et réduisent la consommation."},
+        {"h2": "Garage indépendant vs concession", "p": "Un garage indépendant facture en moyenne 30 à 40% moins cher qu'une concession pour un travail équivalent."}
+      ]
+    },
+    {
+      "slug": "e85-boitier-installation",
+      "tag": "Carburant",
+      "title": "Boîtier E85 : installation, prix et économies réelles",
+      "desc": "Tout savoir sur le boîtier de conversion E85 : coût, compatibilité, économies et rentabilité.",
+      "intro": "Le boîtier E85 permet de rouler à 0,84 €/L. Mais quel est le vrai bilan financier ?",
+      "sections": [
+        {"h2": "Combien coûte un boîtier ?", "p": "Un boîtier homologué coûte entre 700 et 1 200 € pose comprise. Privilégiez un modèle certifié pour conserver votre garantie et votre assurance."},
+        {"h2": "Quelles économies espérer ?", "p": "Malgré une surconsommation de 20 à 25%, l'E85 reste 50% moins cher au kilomètre. Sur 15 000 km/an, comptez 1 000 à 1 200 € d'économie annuelle."},
+        {"h2": "Quel délai de rentabilité ?", "p": "Le boîtier est généralement rentabilisé en 12 à 18 mois pour un conducteur parcourant plus de 12 000 km par an."}
+      ]
+    },
+    {
+      "slug": "carte-grise-demarches",
+      "tag": "Administratif",
+      "title": "Carte grise : toutes les démarches expliquées simplement",
+      "desc": "Guide complet des démarches de carte grise en 2026 : prix, délais, pièces nécessaires.",
+      "intro": "La demande de carte grise se fait désormais entièrement en ligne. Voici comment procéder sans erreur.",
+      "sections": [
+        {"h2": "Où faire sa demande ?", "p": "Uniquement sur le site officiel ANTS (ants.gouv.fr). Méfiez-vous des sites tiers qui facturent des frais supplémentaires injustifiés."},
+        {"h2": "Les pièces à fournir", "p": "Justificatif d'identité, justificatif de domicile de moins de 6 mois, ancienne carte grise et certificat de cession si achat d'occasion."},
+        {"h2": "Les délais", "p": "Le certificat provisoire est immédiat et permet de circuler 1 mois. La carte définitive arrive sous 5 à 10 jours ouvrés."}
+      ]
+    },
+    {
+      "slug": "consommation-hiver",
+      "tag": "Conseils",
+      "title": "Pourquoi votre voiture consomme plus en hiver",
+      "desc": "Les raisons de la surconsommation hivernale et comment la limiter pour économiser du carburant.",
+      "intro": "En hiver, la consommation peut grimper de 15 à 30%. Voici pourquoi et comment limiter la casse.",
+      "sections": [
+        {"h2": "Le moteur froid consomme plus", "p": "Un moteur met plusieurs kilomètres à atteindre sa température optimale. Les trajets courts en hiver sont particulièrement gourmands."},
+        {"h2": "Le chauffage et les équipements", "p": "Dégivrage, sièges chauffants, phares allumés plus longtemps : tous ces équipements sollicitent l'alternateur et augmentent la consommation."},
+        {"h2": "Comment limiter la surconsommation", "p": "Évitez de faire chauffer le moteur à l'arrêt, vérifiez la pression des pneus (le froid la réduit) et retirez galeries et coffres de toit inutilisés."}
+      ]
+    }
+  ]
+}

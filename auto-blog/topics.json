@@ -1,0 +1,206 @@
+{
+  "_comment": "Banque de sujets pour generation d'articles. Chaque sujet a un angle, des mots-cles SEO, et un type (guide/comparatif/informatif/actualite). Le generateur IA s'en sert comme brief.",
+  "topics": [
+    {
+      "type": "guide",
+      "title_hint": "Barème kilométrique 2026 : le guide complet pour tout comprendre",
+      "keywords": ["barème kilométrique 2026", "indemnités kilométriques", "calcul IK impôts", "frais kilométriques voiture"],
+      "angle": "Guide exhaustif : definition, fonctionnement, 3 tranches, exemples par CV, cas du vehicule electrique, declaration impots case 1AK, erreurs frequentes.",
+      "outil_lie": "bareme-kilometrique-2026.html",
+      "outil_nom": "calculateur de barème kilométrique"
+    },
+    {
+      "type": "comparatif",
+      "title_hint": "Frais réels ou abattement 10% : le comparatif chiffré 2026",
+      "keywords": ["frais réels ou forfait 10%", "déduction frais professionnels", "abattement 10% impôts", "frais réels voiture"],
+      "angle": "Comparatif detaille avec tableaux chiffres, point de bascule, exemples concrets par niveau de salaire et kilometrage, conseils pour choisir.",
+      "outil_lie": "bareme-kilometrique-2026.html",
+      "outil_nom": "calculateur IK"
+    },
+    {
+      "type": "comparatif",
+      "title_hint": "Diesel, essence, E85, électrique : quel carburant en 2026 ?",
+      "keywords": ["quel carburant choisir 2026", "diesel ou essence 2026", "E85 rentable", "coût carburant comparaison"],
+      "angle": "Comparatif complet cout au km, entretien, fiscalite, decote pour chaque motorisation. Tableaux. Recommandation selon profil (citadin, gros rouleur, famille).",
+      "outil_lie": "comparatif-carburants.html",
+      "outil_nom": "comparateur de carburants"
+    },
+    {
+      "type": "guide",
+      "title_hint": "Comment calculer le coût réel d'un trajet en voiture",
+      "keywords": ["coût trajet voiture", "calcul prix trajet carburant", "coût kilométrique voiture", "prix péage essence trajet"],
+      "angle": "Methode complete : carburant + peage + usure + amortissement. Exemples de trajets reels (Paris-Lyon, etc.). Astuces pour reduire le cout.",
+      "outil_lie": "cout-trajet.html",
+      "outil_nom": "calculateur de coût de trajet"
+    },
+    {
+      "type": "guide",
+      "title_hint": "Réduire sa consommation de carburant : 20 techniques qui marchent",
+      "keywords": ["réduire consommation carburant", "économiser essence", "éco-conduite", "consommation L/100km"],
+      "angle": "Guide pratique : eco-conduite, entretien, pneus, equipements, choix carburant. Chiffres d'economie pour chaque technique. Calcul du gain annuel total.",
+      "outil_lie": "calculateur-consommation.html",
+      "outil_nom": "calculateur de consommation"
+    },
+    {
+      "type": "informatif",
+      "title_hint": "Voiture électrique en 2026 : vraie rentabilité, calculs à l'appui",
+      "keywords": ["voiture électrique rentabilité 2026", "coût voiture électrique", "prix recharge électrique", "bonus écologique 2026"],
+      "angle": "Analyse chiffree : cout recharge vs carburant, entretien, bonus, malus, decote, IK majore +20%. Seuil de rentabilite selon kilometrage.",
+      "outil_lie": "comparatif-carburants.html",
+      "outil_nom": "comparateur de carburants"
+    },
+    {
+      "type": "guide",
+      "title_hint": "Carte grise 2026 : prix par région et démarches expliquées",
+      "keywords": ["prix carte grise 2026", "coût carte grise région", "calcul carte grise chevaux fiscaux", "démarche carte grise ANTS"],
+      "angle": "Guide complet : calcul du cout par region et CV, exoneration electrique, demarches ANTS etape par etape, pieces, delais, pieges a eviter.",
+      "outil_lie": "carte-grise-2026.html",
+      "outil_nom": "calculateur de carte grise"
+    },
+    {
+      "type": "guide",
+      "title_hint": "Budget auto annuel : tous les postes de dépenses décryptés",
+      "keywords": ["budget auto annuel", "coût possession voiture", "combien coûte une voiture par an", "budget voiture mensuel"],
+      "angle": "Decryptage de chaque poste : carburant, assurance, entretien, amortissement, credit, peages. Budget moyen par type de vehicule. Comment l'optimiser.",
+      "outil_lie": "budget-auto-mensuel.html",
+      "outil_nom": "calculateur de budget auto"
+    },
+    {
+      "type": "comparatif",
+      "title_hint": "Leasing, LOA, LLD ou achat : que choisir pour sa voiture",
+      "keywords": ["leasing ou achat voiture", "LOA LLD différence", "financement voiture 2026", "crédit auto ou leasing"],
+      "angle": "Comparatif des modes de financement avec avantages/inconvenients, cout total sur 5 ans, fiscalite, profils adaptes. Tableau recapitulatif.",
+      "outil_lie": "budget-auto-mensuel.html",
+      "outil_nom": "calculateur de budget auto"
+    },
+    {
+      "type": "informatif",
+      "title_hint": "E85 (superéthanol) : tout savoir avant de se lancer en 2026",
+      "keywords": ["E85 superéthanol 2026", "boîtier E85 prix", "économie E85", "voiture compatible E85"],
+      "angle": "Dossier complet : qu'est-ce que l'E85, prix, economie reelle, boitier de conversion, compatibilite, impact moteur, demarches assurance et carte grise.",
+      "outil_lie": "comparatif-carburants.html",
+      "outil_nom": "comparateur de carburants"
+    },
+    {
+      "type": "guide",
+      "title_hint": "Déclaration d'impôts 2026 : optimiser ses frais de voiture",
+      "keywords": ["déclaration impôts frais voiture 2026", "frais réels déclaration", "case 1AK impôts", "déduire voiture impôts"],
+      "angle": "Guide pas a pas de la declaration : quand choisir les frais reels, comment remplir, justificatifs, IK, cumul peages, erreurs qui declenchent un controle.",
+      "outil_lie": "bareme-kilometrique-2026.html",
+      "outil_nom": "calculateur IK"
+    },
+    {
+      "type": "informatif",
+      "title_hint": "Prix du carburant en France : pourquoi ça monte et comment payer moins",
+      "keywords": ["prix carburant France 2026", "pourquoi essence chère", "prix essence évolution", "carburant moins cher"],
+      "angle": "Analyse : composition du prix (taxes TICPE, TVA, marges), facteurs d'evolution, ou faire le plein le moins cher, applications utiles, operations prix coutant.",
+      "outil_lie": "cout-trajet.html",
+      "outil_nom": "calculateur de coût de trajet"
+    },
+    {
+      "type": "guide",
+      "title_hint": "Indemnités kilométriques pour les indépendants et auto-entrepreneurs",
+      "keywords": ["indemnités kilométriques auto-entrepreneur", "frais kilométriques indépendant", "IK micro-entreprise", "déduction km professionnel"],
+      "angle": "Guide specifique independants : qui peut deduire, comment, regime micro vs reel, tenue d'un carnet de bord, justificatifs, exemples chiffres.",
+      "outil_lie": "bareme-kilometrique-2026.html",
+      "outil_nom": "calculateur IK"
+    },
+    {
+      "type": "comparatif",
+      "title_hint": "Citadine, berline ou SUV : quel budget réel sur 5 ans",
+      "keywords": ["coût citadine berline SUV", "budget voiture 5 ans", "voiture la moins chère à l'usage", "comparatif coût voiture"],
+      "angle": "Comparatif du cout total de possession sur 5 ans pour 3 categories : achat, carburant, assurance, entretien, decote. Tableaux. Le vrai gagnant.",
+      "outil_lie": "budget-auto-mensuel.html",
+      "outil_nom": "calculateur de budget auto"
+    },
+    {
+      "type": "guide",
+      "title_hint": "Réduire son assurance auto de 30% sans perdre en garanties",
+      "keywords": ["réduire assurance auto", "assurance auto pas chère 2026", "comparateur assurance voiture", "économiser assurance"],
+      "angle": "Guide pratique : comparer chaque annee, ajuster les garanties, franchises, bonus-malus, conduite accompagnee, boitier connecte, profils jeunes conducteurs.",
+      "outil_lie": "budget-auto-mensuel.html",
+      "outil_nom": "calculateur de budget auto"
+    },
+    {
+      "type": "informatif",
+      "title_hint": "Malus écologique 2026 : barème, calcul et comment l'éviter",
+      "keywords": ["malus écologique 2026", "malus CO2 voiture", "taxe malus automobile", "éviter malus écologique"],
+      "angle": "Dossier : bareme malus 2026 au gramme de CO2, malus au poids, vehicules concernes, exonerations, strategies pour reduire ou eviter le malus.",
+      "outil_lie": "carte-grise-2026.html",
+      "outil_nom": "calculateur de carte grise"
+    },
+    {
+      "type": "guide",
+      "title_hint": "Trajet domicile-travail : maximiser ses déductions fiscales",
+      "keywords": ["trajet domicile travail impôts", "déduction trajet travail", "frais transport domicile travail", "40 km déduction"],
+      "angle": "Guide : regle des 40 km, exceptions justifiables, calcul IK pour les trajets quotidiens, cumul transports, covoiturage, exemples par distance.",
+      "outil_lie": "bareme-kilometrique-2026.html",
+      "outil_nom": "calculateur IK"
+    },
+    {
+      "type": "comparatif",
+      "title_hint": "Hybride, hybride rechargeable ou 100% électrique en 2026",
+      "keywords": ["hybride ou électrique 2026", "hybride rechargeable rentable", "différence hybride PHEV", "quelle motorisation choisir"],
+      "angle": "Comparatif des 3 technologies : cout, autonomie, recharge, fiscalite, usage ideal pour chacune. Tableau. Recommandation selon profil de conduite.",
+      "outil_lie": "comparatif-carburants.html",
+      "outil_nom": "comparateur de carburants"
+    },
+    {
+      "type": "informatif",
+      "title_hint": "Consommation réelle vs annoncée : pourquoi un tel écart",
+      "keywords": ["consommation réelle voiture", "écart consommation WLTP", "consommation annoncée constructeur", "vraie consommation L/100"],
+      "angle": "Explication de l'ecart entre norme WLTP et reel, facteurs (conduite, charge, meteo, ville/route), comment mesurer sa vraie conso, marges par categorie.",
+      "outil_lie": "calculateur-consommation.html",
+      "outil_nom": "calculateur de consommation"
+    },
+    {
+      "type": "guide",
+      "title_hint": "Entretien automobile : le calendrier complet pour éviter les pannes",
+      "keywords": ["entretien voiture calendrier", "révision voiture périodicité", "entretien auto économiser", "carnet entretien voiture"],
+      "angle": "Calendrier d'entretien par kilometrage : vidange, filtres, courroie, freins, pneus. Cout moyen de chaque operation. Garage independant vs concession.",
+      "outil_lie": "budget-auto-mensuel.html",
+      "outil_nom": "calculateur de budget auto"
+    },
+    {
+      "type": "informatif",
+      "title_hint": "Covoiturage domicile-travail : avantages fiscaux et forfait mobilités",
+      "keywords": ["covoiturage domicile travail", "forfait mobilités durables", "prime covoiturage 2026", "avantage fiscal covoiturage"],
+      "angle": "Dossier : forfait mobilites durables, montants 2026, cumul avec IK, demarches employeur, plateformes, economies reelles pour le salarie.",
+      "outil_lie": "cout-trajet.html",
+      "outil_nom": "calculateur de coût de trajet"
+    },
+    {
+      "type": "guide",
+      "title_hint": "Gros rouleur : comment optimiser un budget de 30 000 km par an",
+      "keywords": ["gros rouleur budget", "optimiser 30000 km par an", "voiture gros kilométrage", "frais kilométriques élevés"],
+      "angle": "Guide pour gros rouleurs : choix du vehicule, E85, IK au-dela de 20000 km, entretien renforce, assurance adaptee, calcul d'optimisation fiscale.",
+      "outil_lie": "bareme-kilometrique-2026.html",
+      "outil_nom": "calculateur IK"
+    },
+    {
+      "type": "comparatif",
+      "title_hint": "Acheter neuf ou d'occasion en 2026 : le vrai calcul",
+      "keywords": ["voiture neuve ou occasion 2026", "décote voiture neuve", "acheter occasion rentable", "budget voiture neuve occasion"],
+      "angle": "Comparatif : decote, garantie, fiabilite, cout total sur 5 ans, fiscalite, bonus neuf. Tableau chiffre. Le meilleur choix selon le budget et l'usage.",
+      "outil_lie": "budget-auto-mensuel.html",
+      "outil_nom": "calculateur de budget auto"
+    },
+    {
+      "type": "informatif",
+      "title_hint": "ZFE et restrictions 2026 : quelles voitures peuvent encore circuler",
+      "keywords": ["ZFE 2026", "Crit'Air restrictions", "zone à faibles émissions", "vignette Crit'Air voiture"],
+      "angle": "Dossier : carte des ZFE en France, calendrier des restrictions Crit'Air, vehicules concernes, derogations, alternatives, impact sur la valeur de revente.",
+      "outil_lie": "comparatif-carburants.html",
+      "outil_nom": "comparateur de carburants"
+    }
+  ],
+  "sources_officielles": [
+    {"nom": "Service-Public.fr (barème IK)", "url": "https://www.service-public.fr/particuliers/vosdroits/F1989"},
+    {"nom": "Impots.gouv.fr", "url": "https://www.impots.gouv.fr"},
+    {"nom": "Prix-carburants.gouv.fr", "url": "https://www.prix-carburants.gouv.fr"},
+    {"nom": "ANTS (carte grise)", "url": "https://www.ants.gouv.fr"},
+    {"nom": "ADEME (mobilité)", "url": "https://www.ademe.fr"},
+    {"nom": "Économie.gouv.fr", "url": "https://www.economie.gouv.fr"},
+    {"nom": "Légifrance", "url": "https://www.legifrance.gouv.fr"}
+  ]
+}
