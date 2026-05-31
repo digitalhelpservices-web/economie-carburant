@@ -1,0 +1,39 @@
+name: Blog automatique quotidien
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  generer-article:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Recuperer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generer l'article du jour
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python3 auto-blog/generate.py
+
+      - name: Publier les changements
+        run: |
+          git config user.name "Blog Bot"
+          git config user.email "bot@economie-carburant.fr"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Aucun changement."
+          else
+            git commit -m "Article automatique du $(date +%Y-%m-%d)"
+            git push
+          fi
