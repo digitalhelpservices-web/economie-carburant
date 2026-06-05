@@ -2345,11 +2345,9 @@ document.addEventListener('DOMContentLoaded', () => {
       btn.disabled = true;
       btn.innerHTML = '⏳ Redirection vers le paiement sécurisé…';
 
-      let url = MOLLIE_PAYMENT_LINK;
-      if (email && emailValide(email)) {
-        url += (url.includes('?') ? '&' : '?') + 'prefilled_email=' + encodeURIComponent(email);
-      }
-      window.location.href = url;
+      // On redirige vers le lien Mollie tel quel (l'email est deja memorise
+      // en localStorage pour personnaliser le PDF apres paiement).
+      window.location.href = MOLLIE_PAYMENT_LINK;
     });
   });
 });
