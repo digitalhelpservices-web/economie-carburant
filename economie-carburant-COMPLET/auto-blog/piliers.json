@@ -1,0 +1,50 @@
+{
+  "_comment": "Articles piliers : longs (5000 mots), sur les sujets principaux du site. Generes via IA en plusieurs parties puis assembles. Le slug est fixe (pas de date) pour rester une page de reference stable.",
+  "piliers": [
+    {
+      "slug": "guide-bareme-kilometrique-2026",
+      "title_hint": "Barème kilométrique 2026 : le guide ultime (calcul, exemples, déclaration)",
+      "keywords": ["barème kilométrique 2026", "indemnités kilométriques", "calcul IK", "frais kilométriques impôts", "barème IK 5 CV", "déclaration frais réels"],
+      "outil_lie": "bareme-kilometrique-2026.html",
+      "outil_nom": "calculateur de barème kilométrique",
+      "parties": [
+        "Introduction complete et definition du bareme kilometrique : ce que c est, a quoi ca sert, qui est concerne, le cadre legal 2026. Environ 800 mots.",
+        "Le fonctionnement detaille : les 3 tranches, les taux par puissance fiscale, la formule de calcul expliquee pas a pas avec la logique degressive. Environ 900 mots.",
+        "Les baremes officiels 2026 a 2030 par puissance (3 a 7 CV+), avec tableaux complets et projections. Environ 800 mots.",
+        "Le cas du vehicule electrique et hybride : majoration 20%, exemples, avantages cumulables. Environ 700 mots.",
+        "Frais reels ou abattement 10% : comparatif detaille, point de bascule, exemples chiffres par profil. Environ 900 mots.",
+        "La declaration aux impots : case 1AK, etapes, justificatifs, erreurs a eviter, controle fiscal. Environ 900 mots."
+      ]
+    },
+    {
+      "slug": "economiser-carburant-guide-complet",
+      "title_hint": "Économiser du carburant en 2026 : le guide complet (40 techniques)",
+      "keywords": ["économiser carburant", "réduire consommation essence", "éco-conduite", "E85 économie", "prix carburant moins cher", "consommation L/100km"],
+      "outil_lie": "calculateur-consommation.html",
+      "outil_nom": "calculateur de consommation",
+      "parties": [
+        "Introduction : le poids du carburant dans le budget auto 2026, prix actuels, enjeux. Environ 700 mots.",
+        "L eco-conduite en profondeur : 15 techniques detaillees avec gains chiffres pour chacune. Environ 1000 mots.",
+        "L entretien qui reduit la consommation : pneus, filtres, huile, poids, aerodynamisme. Environ 800 mots.",
+        "Le choix du carburant : SP95, diesel, E85, GPL, electrique compares en cout reel au km. Environ 900 mots.",
+        "Ou et quand faire le plein le moins cher : strategies, applications, operations prix coutant. Environ 700 mots.",
+        "Bilan : combien economiser par an en combinant tout, plan d action concret. Environ 700 mots."
+      ]
+    },
+    {
+      "slug": "budget-auto-guide-complet",
+      "title_hint": "Budget auto 2026 : combien coûte vraiment une voiture (guide complet)",
+      "keywords": ["budget auto annuel", "coût voiture par an", "budget automobile mensuel", "coût possession voiture", "dépenses voiture 2026"],
+      "outil_lie": "budget-auto-mensuel.html",
+      "outil_nom": "calculateur de budget auto",
+      "parties": [
+        "Introduction : pourquoi calculer son budget auto reel, les couts caches. Environ 700 mots.",
+        "Le carburant : methode de calcul, exemples par type de vehicule et kilometrage. Environ 800 mots.",
+        "L assurance : types de contrats, prix moyens, comment reduire sa prime. Environ 800 mots.",
+        "L entretien et les reparations : calendrier, couts moyens, garage independant vs concession. Environ 800 mots.",
+        "L amortissement et la decote : neuf vs occasion, calcul du cout reel de possession. Environ 900 mots.",
+        "Synthese : budget complet sur 5 ans par profil, leviers d optimisation, plan d action. Environ 800 mots."
+      ]
+    }
+  ]
+}

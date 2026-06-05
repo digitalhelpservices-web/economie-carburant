@@ -21,7 +21,7 @@ STYLE_FILE = os.path.join(AUTO, "_style.txt")
 SCRIPT_FILE = os.path.join(AUTO, "_script.txt")
 STATE_FILE = os.path.join(AUTO, "_state.json")
 LOG_DIR = os.path.join(AUTO, "logs")
-SITE = "https://economie-carburant.fr"
+SITE = "https://xn--conomie-carburant-9sb.fr"
 MONTHS_FR = ["", "janvier", "fevrier", "mars", "avril", "mai", "juin", "juillet",
              "aout", "septembre", "octobre", "novembre", "decembre"]
 

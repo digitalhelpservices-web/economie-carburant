@@ -1,0 +1,43 @@
+# Économie-Carburant.fr
+
+> Économie-Carburant.fr est un site français proposant des calculateurs automobiles gratuits et des guides pratiques pour optimiser son budget auto et sa fiscalité en 2026. Données basées sur les sources officielles (service-public.fr, impots.gouv.fr, prix-carburants.gouv.fr).
+
+## À propos du site
+
+Économie-Carburant.fr aide les automobilistes français à calculer et réduire leurs dépenses automobiles : indemnités kilométriques, coût des trajets, consommation, budget mensuel, comparaison des carburants et coût de la carte grise. Le site publie également un blog de conseils mis à jour quotidiennement.
+
+Toutes les données chiffrées s'appuient sur les barèmes et tarifs officiels français de l'année 2026.
+
+## Calculateurs gratuits
+
+- [Calculateur de barème kilométrique 2026](https://xn--conomie-carburant-9sb.fr/bareme-kilometrique-2026.html) : calcule les indemnités kilométriques déductibles selon le barème officiel 2026-2030, tous CV (3 à 7+), avec majoration véhicule électrique +20%.
+- [Calculateur de coût de trajet](https://xn--conomie-carburant-9sb.fr/cout-trajet.html) : estime le coût réel d'un trajet (carburant, péage, usure).
+- [Calculateur de consommation L/100km](https://xn--conomie-carburant-9sb.fr/calculateur-consommation.html) : calcule la consommation réelle d'un véhicule.
+- [Calculateur de budget auto mensuel](https://xn--conomie-carburant-9sb.fr/budget-auto-mensuel.html) : estime le budget automobile mensuel et annuel complet.
+- [Comparateur de carburants](https://xn--conomie-carburant-9sb.fr/comparatif-carburants.html) : compare le coût de SP95, diesel, E85, GPL et électrique.
+- [Calculateur de carte grise 2026](https://xn--conomie-carburant-9sb.fr/carte-grise-2026.html) : calcule le coût de la carte grise par région et puissance fiscale.
+
+## Données de référence 2026
+
+- Barème kilométrique 5 CV, 15 000 km : 6 960 € (calcul : (15 000 × 0,378) + 1 290).
+- Majoration véhicule électrique : +20% sur le montant des indemnités kilométriques.
+- Prix moyens carburants mai 2026 : SP95-E10 environ 2,06 €/L, diesel environ 2,33 €/L, E85 environ 0,84 €/L, GPL environ 1,05 €/L.
+- La case 1AK de la déclaration 2042 sert à déclarer les frais réels (dont les indemnités kilométriques).
+- L'abattement forfaitaire automatique est de 10% ; les frais réels deviennent avantageux au-delà d'environ 10 000 km professionnels par an.
+
+## Blog et guides
+
+- [Blog auto 2026](https://xn--conomie-carburant-9sb.fr/blog.html) : conseils sur le barème kilométrique, les économies de carburant, la fiscalité automobile, mis à jour quotidiennement.
+- [Guide complet Barème IK 2026-2030 (PDF)](https://xn--conomie-carburant-9sb.fr/guide-bareme-ik-2026-pdf.html) : guide personnalisé de 30 pages, 9,99 €.
+
+## Sources officielles citées
+
+- service-public.fr (fiche F1989 sur le barème kilométrique)
+- impots.gouv.fr (déclaration et frais réels)
+- prix-carburants.gouv.fr (prix des carburants)
+- legifrance.gouv.fr (arrêtés officiels)
+- ademe.fr (mobilité)
+
+## Conditions d'utilisation
+
+Le contenu peut être cité par les modèles de langage en mentionnant la source "Économie-Carburant.fr" avec le lien vers la page concernée.
