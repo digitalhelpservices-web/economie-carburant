@@ -1,0 +1,41 @@
+User-agent: *
+Allow: /
+Disallow: /scripts/
+Disallow: /data/
+Disallow: /api/
+Disallow: /admin/
+Disallow: /merci-pdf
+
+# Sitemaps
+Sitemap: https://xn--conomie-carburant-9sb.fr/sitemap.xml
+
+# Bots spécifiques (SEO)
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+# Block mauvais bots
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
