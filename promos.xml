@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Economie-Carburant.fr - Promos</title>
+    <link>https://economie-carburant.fr/</link>
+    <atom:link href="https://economie-carburant.fr/promos.xml" rel="self" type="application/rss+xml"/>
+    <description>Posts promotionnels automatiques pour les calculateurs et le guide.</description>
+    <language>fr-FR</language>
+    <lastBuildDate>Wed, 10 Jun 2026 20:48:50 +0000</lastBuildDate>
+    <item>
+      <title>Le plein coute de plus en plus cher ? Comparez SP95, diesel, E85 et electrique pour savoir quel carburant vous fait reellement economiser selon votre vehicule.</title>
+      <link>https://economie-carburant.fr/comparatif-carburants.html</link>
+      <guid isPermaLink="false">promo-3</guid>
+      <description>Le plein coute de plus en plus cher ? Comparez SP95, diesel, E85 et electrique pour savoir quel carburant vous fait reellement economiser selon votre vehicule. https://economie-carburant.fr/comparatif-carburants.html #carburant #economie #E85 #budget #voiture</description>
+      <pubDate>Wed, 10 Jun 2026 20:48:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 CV et 15 000 km par an ? Cela represente 6 960 EUR deductibles de vos impots. La plupart des automobilistes l&#x27;ignorent. Verifiez votre cas avec notre calculateur gratuit.</title>
+      <link>https://economie-carburant.fr/bareme-kilometrique-2026.html</link>
+      <guid isPermaLink="false">promo-2</guid>
+      <description>5 CV et 15 000 km par an ? Cela represente 6 960 EUR deductibles de vos impots. La plupart des automobilistes l&#x27;ignorent. Verifiez votre cas avec notre calculateur gratuit. https://economie-carburant.fr/bareme-kilometrique-2026.html #economie #impots #voiture #frais #declaration</description>
+      <pubDate>Wed, 10 Jun 2026 20:48:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vous utilisez votre voiture pour le travail ? Vous pouvez peut-etre deduire des milliers d&#x27;euros de vos impots grace au bareme kilometrique. Calculez vos indemnites gratuitement en 30 secondes.</title>
+      <link>https://economie-carburant.fr/bareme-kilometrique-2026.html</link>
+      <guid isPermaLink="false">promo-1</guid>
+      <description>Vous utilisez votre voiture pour le travail ? Vous pouvez peut-etre deduire des milliers d&#x27;euros de vos impots grace au bareme kilometrique. Calculez vos indemnites gratuitement en 30 secondes. https://economie-carburant.fr/bareme-kilometrique-2026.html #impots #baremekilometrique #fraisreels #voiture #fiscalite</description>
+      <pubDate>Wed, 10 Jun 2026 20:48:08 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
