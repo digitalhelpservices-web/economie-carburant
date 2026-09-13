@@ -841,3 +841,11 @@
 [2026-09-12 10:28:29] blog.html reconstruit (100 articles)
 [2026-09-12 10:28:29] sitemap.xml mis a jour
 [2026-09-12 10:28:29] === Termine ===
+[2026-09-13 11:31:06] === Demarrage generation ===
+[2026-09-13 11:31:06] Sujet #1: Frais réels ou abattement 10% : le comparatif chiffré 2026
+[2026-09-13 11:31:08] 6 actualites RSS
+[2026-09-13 11:31:08] Pas de cle ANTHROPIC_API_KEY -> fallback
+[2026-09-13 11:31:08] Article: blog-frais-reels-ou-abattement-10-le-comparatif-chiffre-2026-5.html (~240 mots, stock structure)
+[2026-09-13 11:31:08] blog.html reconstruit (101 articles)
+[2026-09-13 11:31:08] sitemap.xml mis a jour
+[2026-09-13 11:31:08] === Termine ===
